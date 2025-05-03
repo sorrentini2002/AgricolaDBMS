@@ -4,6 +4,7 @@ This project focuses on designing and implementing a database management system 
 
 ## 📝 Sommario
 - [Overview](#overview)
+- [Structure](#structure)
 - [Project Objectives](#project-objectives)
 - [Methodology](#methodology)
 - [Key Components](#key-components)
@@ -21,6 +22,20 @@ The project aims to develop a comprehensive database solution for Zamponi Srl, a
 - **Customer Support**: Addressing customer requests and ensuring timely service
 
 The system is designed to streamline operations, improve data accuracy, and enhance decision-making capabilities.
+
+## Structure
+In this section, you will find an overview of the file structure and the contents included in the project. The files are organized as follows:
+
+- **LICENSE**: License for the project, released under the MIT License.
+- **README.md**: Contains general information about the project, its description, and how to use it.
+- **implementazione in mysql.mwb**: File describing the implementation of the model in MySQL.
+- **implementazione.mwb**: Contains the detailed definition of the database.
+- **intervista di base dati.docx**: Document providing information about the database.
+- **modello entità relazione.pdf**: Diagram of the entities and relationships in the system.
+- **modello logico finito.docx**: Description of the final logical model of the database.
+- **modello semi tradotto.pdf**: Semi-translated version of the model, for better adaptation to SQL language.
+- **report conclusivo.docx**: Document summarizing the final results of the project and conclusions.
+
 
 ## Project Objectives
 1. **Design a Robust Database Schema**:
